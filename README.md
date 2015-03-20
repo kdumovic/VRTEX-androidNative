@@ -29,6 +29,7 @@ export ANT_HOME=/*WHEREVER THE Ant file IS Mine is at */
 
 ####Windows
 This is tricky, so follow the instructions faithfully:
+
 1. [Download Oculus Mobile SDK, which supports Gear](https://developer.oculus.com/downloads/#sdk=mobile)
 1. follow the android build instructions in the `mobilesdk.pdf`, found in `MobileSDK/Doc/`. Start from Page 15 onwards. Remember to install 4.4.2 (API 19) and the ARM EABI v7a system image. Oculus Mobile SDK uses API Level 19.
 2. Remember to install Android Native Development Kit from the Eclipse Install Software screen. This is just a reminder. Keep following the guide, you're doing good.
